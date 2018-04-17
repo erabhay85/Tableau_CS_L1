@@ -1,1 +1,13 @@
 # Tableau_CS_L1
+
+Tableau Case Study 
+ 
+Questions are based on Sample SuperStore data • Exercise Objective: Gain hands-on experience with Tableau and become familiar with the interface and tools, practicing various drill-down and filtering techniques to generate insight into data. Use the “Sample – Superstore” Example Data Set in Tableau. • For each question, use the hints/listed components to create a visualization which will provide the information needed to answer the question. Each question should be on visualization. • Make sure you include all listed components in order to receive full credit for the question. • Provide a screen shot of the completed visualization (including any filters) from which you got your answer(s) in a word document. • Along with it also save the tableau workbook as .twbx file and upload both 
+ 
+1. Create a sheet named: Year on Year Monthly Sales  a. To represent the year over year month-wise sales as continuous line graph b. Include filter for 4 quarters. c. Include sales values on label d. From the created visualization answer the following (just type down the answer) i. Which month and year has done the highest sales: ii. Which month and year has the least value: Eg:  
+ 
+2. Create a sheet named Sales and Profit  a. Make a horizontal bar chart showing top 20 product names by sum of sales b. Highlight the profit with 2 stepped red and green color on the bar 3. Create a map named US State wise Profitability a. Map to represent the profitability of each state in US.  b. Full state needs to be color coded to show the profitability with red – green diverging with 5 stepped.  c. Each state should be labeled with  i. State name 
+
+ 
+Sensitivity: Internal & Restricted 
+ii. Profit amount d. Answer the following from the visualization i. Which state has the highest profit ii. Which state has the highest loss. 4. Create a sheet named Sold Quantity by Sub Category  a. Create a Packed Bubbles chart showing each sub category as a colored bubble.  b. Using quantity sold by each Sub category to display the size of the bubble.  c. Answer the following  i. Sub category with second highest sold quantity ii. Sub category with second lowest sold quantity 5. Create a dashboard to represent  a. all the 4 created visualizations  b. with the filter on region and Quarter which reflects on all the 3 sheets data on the dashboard. 6. Create a Storyboard  a. Create Intro page to have  i. Wipro logo  ii. Welcome message iii. List of 4 sheets names b. Create 4 pages to represent the 4 sheets created  c. Create a concluding page to have the answers of all the 6 questions from 3 visualizations and a thank you message.  
